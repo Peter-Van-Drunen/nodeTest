@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Peter-Van-Drunen/nodeTest/issues"
   },
-  "homepage": "https://github.com/Peter-Van-Drunen/nodeTest#readme"
+  "homepage": "https://github.com/Peter-Van-Drunen/nodeTest#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
 }
