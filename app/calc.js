@@ -1,7 +1,7 @@
 // app/calc.js
 function sum (arr) {
   return arr.reduce(function(a, b) {
-    return parseInt(a) + parseInt(b)
+    return Number(a) + Number(b)
   }, 0)
 }
 
